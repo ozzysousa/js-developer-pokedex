@@ -27,7 +27,7 @@ Projeto elaborado como parte integrante do desafio do Bootcamp Santander junto c
 | Git Bash     | Chat GPT    |
 
 
-## Importante:
+## Importante:👇
 
 > As informações sobre os Pokémons são obtidas da API pública PokeAPI, que está disponível no seguinte endereço: https://pokeapi.co/. 
 >
@@ -35,9 +35,9 @@ Projeto elaborado como parte integrante do desafio do Bootcamp Santander junto c
 ## Meu Certificado deste projeto:
 ![# Certificado DIO](https://hermes.digitalinnovation.one/certificates/cover/1264CFBE.jpg)
 
-## Links
+## Links 🔗
 
-Veja o projeto [Clicando Aqui!](https://ozzysousa.github.io/js-developer-pokedex/).
+Veja o Site do projeto: [Clicando Aqui!](https://ozzysousa.github.io/js-developer-pokedex/).
 ---
-## Meu Perfil no LinkedIn
+## Meu Perfil no LinkedIn 📘
 [![Meu Perfil no LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sousabelcher/)
