@@ -1,5 +1,5 @@
 # Trilha JS Developer - Pokedex
-![Texto Alternativo](C:\Users\telex\js-developer-pokedex\assets\img\pokeapi_256.png)
+(https://github.com/ozzysousa/js-developer-pokedex/blob/main/assets/img/pokeapi_256.png)
 
 Projeto elaborado como parte integrante do desafio do Bootcamp Santander junto com a plataforma da DIO, com o objetivo de aprimorar as habilidades em JavaScript. Inicialmente, o projeto consistia em uma lista de Pokémons, e a tarefa proposta era aprimorar a interface e adicionar uma tela de detalhes para cada um dos monstrinhos de bolso.
 
