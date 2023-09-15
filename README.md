@@ -35,6 +35,9 @@ Projeto elaborado como parte integrante do desafio do Bootcamp Santander junto c
 ## Meu Certificado deste projeto:
 ![# Certificado DIO](https://hermes.digitalinnovation.one/certificates/cover/1264CFBE.jpg)
 
+## Links
+
+Veja o projeto [Clicando Aqui!](https://ozzysousa.github.io/js-developer-pokedex/).
 ---
 ## Meu Perfil no LinkedIn
 [![Meu Perfil no LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sousabelcher/)
