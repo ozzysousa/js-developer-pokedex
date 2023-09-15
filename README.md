@@ -22,3 +22,4 @@ Tecnologias empregadas:
 - Git/GitHub
 
 As informações sobre os Pokémons são obtidas da API pública PokeAPI, que está disponível no seguinte endereço: https://pokeapi.co/. Essa API fornece uma ampla gama de dados relacionados aos Pokémons, como características, tipos, habilidades, imagens e muito mais, permitindo que os desenvolvedores criem experiências interativas e informativas relacionadas a esse universo fascinante.
+[![Meu Perfil no LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sousabelcher/)
